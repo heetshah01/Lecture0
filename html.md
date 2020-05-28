@@ -1,9 +1,9 @@
 # Lecture0
 <!DOCTYPE html>
 <html>
-  <title>
-    My first git program
-  </title>
+  <head>
+  <title> My first git program</title>
+  </head>
   <body>
     HEy.
   </body>
